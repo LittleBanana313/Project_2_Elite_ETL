@@ -14,7 +14,7 @@ Crime Data
     - Filter by location
     - Join relevant datasets
 4) Create ERD
-5) Create individual data tables
-6) Build relationships (primary / foreign keys)
-7) Create user friendly views
-9) Project write-up
+    - Create individual data tables
+    - Build relationships (primary / foreign keys)
+    - Create user friendly views
+5) Project write-up
