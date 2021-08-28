@@ -4,6 +4,7 @@ A collaborative space to share victories and hurdles through Project 2!
 
 Datasets to be Used: 
 - [Airbnb Dataset](https://www.kaggle.com/mysarahmadbhat/airbnb-listings-reviews?select=Airbnb+Data)
+![Alt text](images/nyccrime.jpg?raw=true "Title")
 - [Crime Dataset](https://www.kaggle.com/ajkarella/nyc-crime-stats)
 
 **Rough Breakdown of Tasks:** 
