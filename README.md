@@ -10,9 +10,9 @@ Crime Data
 1) Read in data from csv files
 2) Data transformation
 3) Clean data in Jupyter notebook
-  - Trimming unnecessary headers
-  - Filter by location
-  - Join relevant datasets
+    - Trimming unnecessary headers
+    - Filter by location
+    - Join relevant datasets
 4) Create ERD
 5) Create individual data tables
 6) Build relationships (primary / foreign keys)
