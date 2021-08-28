@@ -3,8 +3,8 @@ A collaborative space to share victories and hurdles through Project 2!
 
 
 Datasets to be Used: 
-Airbnb
-Crime Data
+- [Airbnb Dataset](https://www.kaggle.com/mysarahmadbhat/airbnb-listings-reviews?select=Airbnb+Data)
+- [Crime Dataset](https://www.kaggle.com/ajkarella/nyc-crime-stats)
 
 **Rough Breakdown of Tasks:** 
 1) Read in data from csv files
