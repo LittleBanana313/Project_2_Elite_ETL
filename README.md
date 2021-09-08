@@ -23,3 +23,5 @@ Datasets to be Used:
     - Build relationships (primary / foreign keys)
     - Create user friendly views
 5) Project write-up
+
+![Alt text](images/untitled.png?raw=true "Output ERD Diagram:")
