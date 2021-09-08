@@ -25,4 +25,5 @@ Datasets to be Used:
 5) Project write-up
 
 ***Output ERD Diagram:***
+
 ![Alt text](images/Untitled.png?raw=true "Output ERD Diagram:")
