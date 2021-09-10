@@ -24,6 +24,12 @@ Datasets to be Used:
     - Create user friendly views
 5) Project write-up
 
+***OUTPUTS:***
+- [nyc_crime.csv](https://drive.google.com/file/d/1Mik3OSNpp6GkN0qS3vtoCqbo5wFa-M2U/view?usp=sharing)
+- [Reviews.csv](https://drive.google.com/file/d/1Ku5WgHjIfgyk7IoC-XC1xsJS_cd2IsEo/view?usp=sharing)
+- [nyc_bnb_listings.csv](https://drive.google.com/file/d/1_FDT21H-siuenNL4pLyBJym-DCbff0Vj/view?usp=sharing)
+
+
 ***Output ERD Diagram:***
 
 ![Alt text](images/Untitled.png?raw=true "Output ERD Diagram:")
